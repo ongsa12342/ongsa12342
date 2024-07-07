@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Papinwit Rattanasiri! 👋
 
-<!--
-**ongsa12342/ongsa12342** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm currently pursuing a Bachelor's degree in Robotics Engineering at the Institute of Field Robotics (FIBO), King Mongkut's University of Technology Thonburi (KMUTT). My main interests lie in machine learning, computer vision, and deep learning. I'm particularly passionate about applying deep learning to computer vision and audio, especially in the realm of music.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+- **Programming Languages**: Python, C, MATLAB
+- **Technologies and Tools**: Machine Learning, Computer Vision, Deep Learning, Robotics, Embedded System
+
+## Contact Me
+
+- **Email**: [papinwitrat@hotmail.com](mailto:papinwitrat@hotmail.com)
+- **LinkedIn**: [Papinwit Rattanasiri](#) (https://www.linkedin.com/in/papinwit-rattanasiri-51a7ba294/)
+
+
